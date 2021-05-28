@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "72972534632",
+    "project_id": "tranminhnghiaandroidthithu",
+    "storage_bucket": "tranminhnghiaandroidthithu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72972534632:android:251a7c9bd1789db7ca0cdd",
+        "android_client_info": {
+          "package_name": "com.example.tranminhnghiaandroidthithu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72972534632-ll28rp6f1f4po0sligha3en166rg78lh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDktMbSKk0gcOUisbg4aacfPeqaaKTGVXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72972534632-ll28rp6f1f4po0sligha3en166rg78lh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
